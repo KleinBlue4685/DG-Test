@@ -9,5 +9,6 @@ Make a note of something, [[create a link\|create a link]], or try [the Importer
 [[推送测试\|推送测试]]
 
 不能说的秘密
+[baidu](baidu.com)
 
 When you're ready, delete this note and make the vault your own.
